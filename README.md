@@ -27,7 +27,7 @@ To run the program, open a terminal or command prompt and navigate to the direct
 Then run the following command:
 
 ```bash
-   python highestbidder.py
+   python Bidder.py
 ```
 This will start the program and display the logo.
 Follow the prompts to enter you name and bid.
